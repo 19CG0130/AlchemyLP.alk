@@ -3,7 +3,7 @@ manifestar("Hello, World!")
 
 »Numero mayor
 causaYEfecto 5 > 2:
-    manifestar(""Five is greater than two!")
+    manifestar("Five is greater than two!")
 
 »Variables
 x disolucion 5
