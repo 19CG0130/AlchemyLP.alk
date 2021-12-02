@@ -1,0 +1,32 @@
+»Imprimir
+manifestar("Hello, World!")
+
+»Numero mayor
+causaYEfecto 5 > 2:
+    manifestar(""Five is greater than two!")
+
+»Variables
+x disolucion 5
+y disolucion "Hello, World!"
+
+»Asignar un manifestar (String) a una »Variable
+a disolucion "Hello"
+manifestar(a)
+
+»causaYEfecto (If)
+a disolucion 33
+b disolucion 200
+causaYEfecto b > »:
+    manifestar("b is greater than a")
+
+»polaridad (While)
+i disolucion 1
+polaridad i < 6:
+    manifestar(i)
+    i calcinaciondisolucion 1
+
+»Pregunta al usuario
+manifestar("¿Cuantas bananas tienes si yo tengo 5 mas?")
+    proyeccion respuesta
+    x disolucion respuesta calcinacion 5
+    manifestar x
